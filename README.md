@@ -5,8 +5,7 @@ Welcome! This repository highlights data visualization of raw data into meaningf
 # Projects
 
 # Online Gaming Behavior
-onlinegamingbehavior.pbix
-onlinegamingbehavior.png
+[onlinegamingbehavior.pbix] (onlinegamingbehavior.png)
 
 - Neatly showcases online gaming behavior from Steam to form key insights into how certain behaviors arise via differences and combinations via total player count, location, age, sex, engagement levels, sessions per week, session duration, player levels, and achievements to unlock. The key tool to discern each data point is choice of engagement level between low, medium, and high.
 - A snapshot is given to demonstrate percentages of player engagement and how viewing each engagement level changes in each catergory analyzed as determinant behavior.
