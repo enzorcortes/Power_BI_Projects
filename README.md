@@ -13,6 +13,8 @@ Welcome! This repository highlights data visualization of raw data into meaningf
 - A snapshot is given to demonstrate percentages of player engagement and how viewing each engagement level changes in each catergory analyzed as determinant behavior.
 - Questions explored are which two behaviors are strongly linked to high engagement levels, which demographic best represents the lowest engagement level based on age, sex and location (interactible can be cycled through within Power BI between heirarchies), which engagement levels correlate with high achievement count and player levels.
 
+<img src="images/onlinegamingbehavior.png" width="100%">
+
 ## ⚾ Baseball, The Case for ABS vs. Umpires in the Attack Zones (in development...)
 
 > "Let the robots take our jobs, and let them help us dream up new work that matters." — Kevin Kelly*
