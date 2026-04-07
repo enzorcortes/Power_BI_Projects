@@ -27,17 +27,43 @@ Welcome! This repository highlights data visualization of raw data into meaningf
 - Aforementioned data will compare against ABS data and take into account nuanced strike zone areas
 - Umpire unions are another thing altogether to consider (but we don't touch on that here)
 
-<img src="images/ABSvisual.jpg" width="50%">
+<img src="images/ABSvisual.jpg" width="60%">
 
-🤖 ABS Context: MLB introduced the Automated Ball-Strike (ABS) Challenge System powered by T-Mobile beginning with the 2026 season. The system will rely on the same Hawk-Eye tracking technology that fuels MLB's Statcast data.
+🤖 ABS Contextual Graphic
+MLB introduced the Automated Ball-Strike (ABS) Challenge System powered by T-Mobile beginning with the 2026 season. The system will rely on the same Hawk-Eye tracking technology that fuels MLB's Statcast data.
 
-⚠️ Strike Zone today (2026) is defined by the top being the midpoint between the shoulders and the pants down to the bottom just below the kneecap
+Top Left of Graphic:
+- The Strike Zone hasn't been the same forever. It has been consistently the width of home plate (even today) but... since the 1950's the height was estaablished as the armpits till top of the knees. Since then it has expanded and shrunk till... 
+- ⚠️ Strike Zone today (2026) is defined by the top being the midpoint between the shoulders and the pants down to the bottom just below the kneecap.
+- Umpires are right ~94% of the time.
+
+ Middle Left of Graphic:
+  - For this to be possible, you need a more accurate strike zone (more than just knees and shoulders). All players standing height were measured leadding to...
+  - Bottom of strike zone and top of strike zone is 27% and 53.5% of player total height for every player. This does not come without discrepancy.
+  - ⚠️ Pitching is judged as it crosses the midpoint of the plate... thus, every player has a slightly differnt zone (discrepancy).
+
+ Bottom Left of Graphic:
+  - Jose Altuve (Astros, blue), one of the shortest players in the league (5'6")
+  - Aaron Judge (Yankees, red), one of the tallest players in the league (6'7")
+  - 20% larger strike zone than Altuve = 7 more baseballs worth of space
+
+ Middle to Bottom Right of Graphic:
+ - Spring training analytics:
+   - 4.1 challenges per game
+   - 47% from batters (blue), 46% correct rate (note: batters don't have the same straight on view, expected)
+   - 53% from pitchers and catchers (red), 60% correct rate (expected)
+- Outcomes:
+   - Each review takes 14 seconds, on average adds 1 minute per game
+   - 80% fans say it improves the game experience
+  
 
 🧢 What to know about the ABS challenge system and how it works:
 - Only batters and pitchers/catchers may initiate a challenge by tapping their cap within 2 seconds of the pitch sequence end. Managers, coaches and other players may not be involved.
 - Each team starts the game with two challenges. Teams will lose the ability to challenge after they do so incorrectly twice. Teams will start each extra inning with a challenge regardless of whether they have already exhausted their challenges in the first nine innings.
 - The ABS zone is set as follows: The width is 17 inches, identical to home plate. The top of the zone is set at 53.5% of a player's measured height without cleats. The bottom is set at 27% of the player's measured height. The strike zone is captured as the ball passes through the middle of the plate, not the front.
 - In MLB, challenges will not be permitted when a position player is pitching.
+- This is all possible by 12 high speed cameras around the stadium, tracking each pitch down the width of a grain of rice (if the ball grazes the edge of the AZ, it will recognize it as a strike). ⚠️ This is where AZ nuance is important and the aforementioned data before the graphic matters.
+- This system has been in place for years in the Minor Leagues and during Spring Training
 
 # ❓ About Power BI
 
