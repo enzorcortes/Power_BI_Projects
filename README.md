@@ -30,6 +30,7 @@ Welcome! This repository highlights data visualization of raw data into meaningf
 <img src="images/ABSvisual.jpg" width="60%">
 
 🤖 ABS Contextual Graphic
+
 MLB introduced the Automated Ball-Strike (ABS) Challenge System powered by T-Mobile beginning with the 2026 season. The system will rely on the same Hawk-Eye tracking technology that fuels MLB's Statcast data.
 
 Top Left of Graphic:
