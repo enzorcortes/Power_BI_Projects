@@ -13,6 +13,17 @@ Welcome! This repository highlights data visualization of raw data into meaningf
 - A snapshot is given to demonstrate percentages of player engagement and how viewing each engagement level changes in each catergory analyzed as determinant behavior.
 - Questions explored are which two behaviors are strongly linked to high engagement levels, which demographic best represents the lowest engagement level based on age, sex and location (interactible can be cycled through within Power BI between heirarchies), which engagement levels correlate with high achievement count and player levels.
 
+## ⚾ Baseball, The Case for ABS vs. Umpires in the Attack Zones
+
+> "Let the robots take our jobs, and let them help us dream up new work that matters." — Kevin Kelly*
+
+- Argues for the eventual replacement of all umpires in the MLB and or NCAA with nuanced data to support it
+- Data points include...
+    - Correct vs. incorrect calls within the defined AZ
+    - MLB umpire scorecard on correct vs. incorrect strikes and balls in the 2022 season
+    - Correlation between nuanced calls within the contested AZ areas (Not all pitches thrown in the rule-book strike zone are called for strikes -- and not all pitches thrown outside of the rule-book strike zone are called balls)
+- Aforementioned data will compare against ABS data and take into account nuanced strike zone areas
+- Umpire unions are another thing altogether to consider (but we don't touch on that here)
 
 # ❓ About Power BI
 
