@@ -26,6 +26,8 @@ Welcome! This repository highlights data visualization of raw data into meaningf
 - Aforementioned data will compare against ABS data and take into account nuanced strike zone areas
 - Umpire unions are another thing altogether to consider (but we don't touch on that here)
 
+![ABSvisual](https://github.com/enzorcortes/biblioteca/blob/cc72c0bb07927d78a19da8881eccf054cd5188a0/images/ABSvisual.jpg)
+
 🤖 ABS Context: MLB introduced the Automated Ball-Strike (ABS) Challenge System powered by T-Mobile beginning with the 2026 season. The system will rely on the same Hawk-Eye tracking technology that fuels MLB's Statcast data.
 
 🧢 What to know about the ABS challenge system and how it works:
