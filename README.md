@@ -25,6 +25,14 @@ Welcome! This repository highlights data visualization of raw data into meaningf
 - Aforementioned data will compare against ABS data and take into account nuanced strike zone areas
 - Umpire unions are another thing altogether to consider (but we don't touch on that here)
 
+🤖 ABS Context: MLB introduced the Automated Ball-Strike (ABS) Challenge System powered by T-Mobile beginning with the 2026 season. The system will rely on the same Hawk-Eye tracking technology that fuels MLB's Statcast data.
+
+🧢 What to know about the ABS challenge system and how it works:
+- Only batters and pitchers/catchers may initiate a challenge by tapping their cap within 2 seconds of the pitch sequence end. Managers, coaches and other players may not be involved.
+- Each team starts the game with two challenges. Teams will lose the ability to challenge after they do so incorrectly twice. Teams will start each extra inning with a challenge regardless of whether they have already exhausted their challenges in the first nine innings.
+- The ABS zone is set as follows: The width is 17 inches, identical to home plate. The top of the zone is set at 53.5% of a player's measured height without cleats. The bottom is set at 27% of the player's measured height. The strike zone is captured as the ball passes through the middle of the plate, not the front.
+- In MLB, challenges will not be permitted when a position player is pitching.
+
 # ❓ About Power BI
 
 Power BI is a business analytics service by Microsoft. It provides interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards; bringing raw data to life.
