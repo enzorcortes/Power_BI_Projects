@@ -51,7 +51,8 @@ There are four Attack Zones as outlined: Heart, Shadow, Chase, and Waste.
 4. View how the umpire's success rate is with all this in mind (this is akin to step 2, just with better context)
 5. Compare the accuracy pre-ABS vs. ABS in Spring Training + Minor Leagues (pre-2026) and Major League (2026)
 6. See how many nuanced (meant-to-be-balls that were swung on leading to a strike, meant-to-be-strikes that were called balls by accident; ABS would have caught both situations) occurred and compare that to the accuracy of the ABS system in use
-7. Finally, we should be able to see a defined strike/attack zone, what's significant vs. insignificant, umpire accuracy vs. pitcher/catcher/batter accuracy via ABS (since we're disputing ABS, we can aggragate batter and pitcher/catcher accuracy during a challenge), and how ABS would have corrected past "mistakes"/calls in the nuanced portion
+7. See how umpire calls stack directly against ABS challenges (it should be two simple percentage numbers), one percentage for Spring Training and Minor League and one for the ongoing 2026 MLB season (this study can be updated once the season is over, typed as of April of 2026)
+8. Finally, we should be able to see a defined strike/attack zone, what's significant vs. insignificant, umpire accuracy vs. pitcher/catcher/batter accuracy via ABS (since we're disputing ABS, we can aggragate batter and pitcher/catcher accuracy during a challenge), and how ABS would have corrected past "mistakes"/calls in the nuanced portion
 
 <img src="images/ABSvisual.jpg" width="60%">
 
@@ -91,6 +92,9 @@ MLB introduced the Automated Ball-Strike (ABS) Challenge System powered by T-Mob
 - In MLB, challenges will not be permitted when a position player is pitching.
 - This is all possible by 12 high speed cameras around the stadium, tracking each pitch down the width of a grain of rice (if the ball grazes the edge of the AZ, it will recognize it as a strike). ⚠️ This is where AZ nuance is important and the aforementioned data before the graphic matters.
 - This system has been in place for years in the Minor Leagues and during Spring Training
+
+**🧑🏻‍⚖️ Catharsis**
+- Some notable worries via the umpires is using the system against the teams. If they run out of challengees the umpire can shrink the zone or shaft the team that has been challenging everything. All this, due to the challenge limitations, can go uncontested.
 
 # ❓ About Power BI
 
