@@ -29,6 +29,19 @@ Welcome! This repository highlights data visualization of raw data into meaningf
 - This dataset includes only called strikes or balls. This is to limit any noise that would come from swinging strikes (potentially pitches that are out of the strike zone but the batter swung at the pitch, so it counts as a strike) and any foul balls (any contacted pitches that travel beyond the foul lines, which are sometimes considered a strike)
   - uid: a unique ID for each pitch in the dataset
   - is_strike: whether a pitch was called a strike or not
+  
+
+<img src="images/strikezoneanatomy.png" width="60%">
+
+
+**Strike/Attack Zone Anatomy**
+
+There are four Attack Zones as outlined: Heart, Shadow, Chase, and Waste. 
+
+- The Heart: within the rule-book strike zone. This should contain pitches that should all be called strikes.
+- The Shadow Zone: area that covers the edge of the rule-book strike zone and several inches beyond the rule-book strike zone. This area is where "50/50" pitches exist -- or rather, pitches that are called strikes 50% of the time.
+- Chase Zone: pitches that are definitively outside of the strike zone (rule-book or Shadow Zone).
+- Waste Zone: pitches should never be called strikes (unless a batter is swinging at a pitch in the Waste Zone)
 
 **Approach:**
 1. Define the strike/attack zone and showcase how frequent they are swung at to be considered a ball/strike and which zones are considered insignificant to the study
@@ -58,7 +71,7 @@ MLB introduced the Automated Ball-Strike (ABS) Challenge System powered by T-Mob
  **Bottom Left of Graphic:**
   - Jose Altuve (Astros, blue), one of the shortest players in the league (5'6")
   - Aaron Judge (Yankees, red), one of the tallest players in the league (6'7")
-  - 20% larger strike zone than Altuve = 7 more baseballs worth of space
+  - Judeg has a 20% larger strike zone than Altuve = 7 more baseballs worth of space
 
  **Middle to Bottom Right of Graphic:**
  - Spring training analytics:
