@@ -28,6 +28,7 @@ Welcome! This repository highlights data visualization of raw data into meaningf
 <img src="images/ABSvisual.jpg" width="50%">
 
 🤖 ABS Context: MLB introduced the Automated Ball-Strike (ABS) Challenge System powered by T-Mobile beginning with the 2026 season. The system will rely on the same Hawk-Eye tracking technology that fuels MLB's Statcast data.
+
 ⚠️ Strike Zone today (2026) is defined by the top being the midpoint between the shoulders and the pants down to the bottom just below the kneecap
 
 🧢 What to know about the ABS challenge system and how it works:
