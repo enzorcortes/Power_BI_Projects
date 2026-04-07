@@ -26,29 +26,41 @@ Welcome! This repository highlights data visualization of raw data into meaningf
     - Correlation between nuanced calls within the contested AZ areas (Not all pitches thrown in the rule-book strike zone are called for strikes -- and not all pitches thrown outside of the rule-book strike zone are called balls)
 - Aforementioned data will compare against ABS data and take into account nuanced strike zone areas
 - Umpire unions are another thing altogether to consider (but we don't touch on that here)
+- This dataset includes only called strikes or balls. This is to limit any noise that would come from swinging strikes (potentially pitches that are out of the strike zone but the batter swung at the pitch, so it counts as a strike) and any foul balls (any contacted pitches that travel beyond the foul lines, which are sometimes considered a strike)
+  - uid: a unique ID for each pitch in the dataset
+  - is_strike: whether a pitch was called a strike or not
+
+**Approach:**
+1. Define the strike/attack zone and showcase how frequent they are swung at to be considered a ball/strike and which zones are considered insignificant to the study
+2. View how accurate the umpires are on average in a season without ABS being implemented in the Major League (this data is supplemenetary); this is data using the defined significant areas within the AZ and cross referencing on how accurate they are within the AZ
+3. Compare the anatomy of the strike zone and how it affects the play as strike zones vary per player
+4. View how the umpire's success rate is with all this in mind (this is akin to step 2, just with better context)
+5. Compare the accuracy pre-ABS vs. ABS in Spring Training + Minor Leagues (pre-2026) and Major League (2026)
+6. See how many nuanced (meant-to-be-balls that were swung on leading to a strike, meant-to-be-strikes that were called balls by accident; ABS would have caught both situations) occurred and compare that to the accuracy of the ABS system in use
+7. Finally, we should be able to see a defined strike/attack zone, what's significant vs. insignificant, umpire accuracy vs. pitcher/catcher/batter accuracy via ABS (since we're disputing ABS, we can aggragate batter and pitcher/catcher accuracy during a challenge), and how ABS would have corrected past "mistakes"/calls in the nuanced portion
 
 <img src="images/ABSvisual.jpg" width="60%">
 
-🤖 ABS Contextual Graphic
+**🤖 ABS Contextual Graphic**
 
 MLB introduced the Automated Ball-Strike (ABS) Challenge System powered by T-Mobile beginning with the 2026 season. The system will rely on the same Hawk-Eye tracking technology that fuels MLB's Statcast data.
 
-Top Left of Graphic:
+**Top Left of Graphic:**
 - The Strike Zone hasn't been the same forever. It has been consistently the width of home plate (even today) but... since the 1950's the height was estaablished as the armpits till top of the knees. Since then it has expanded and shrunk till... 
 - ⚠️ Strike Zone today (2026) is defined by the top being the midpoint between the shoulders and the pants down to the bottom just below the kneecap.
 - Umpires are right ~94% of the time.
 
- Middle Left of Graphic:
+**Middle Left of Graphic:**
   - For this to be possible, you need a more accurate strike zone (more than just knees and shoulders). All players standing height were measured leadding to...
   - Bottom of strike zone and top of strike zone is 27% and 53.5% of player total height for every player. This does not come without discrepancy.
   - ⚠️ Pitching is judged as it crosses the midpoint of the plate... thus, every player has a slightly differnt zone (discrepancy).
 
- Bottom Left of Graphic:
+ **Bottom Left of Graphic:**
   - Jose Altuve (Astros, blue), one of the shortest players in the league (5'6")
   - Aaron Judge (Yankees, red), one of the tallest players in the league (6'7")
   - 20% larger strike zone than Altuve = 7 more baseballs worth of space
 
- Middle to Bottom Right of Graphic:
+ **Middle to Bottom Right of Graphic:**
  - Spring training analytics:
    - 4.1 challenges per game
    - 47% from batters (blue), 46% correct rate (note: batters don't have the same straight on view, expected)
@@ -58,7 +70,7 @@ Top Left of Graphic:
    - 80% fans say it improves the game experience
   
 
-🧢 What to know about the ABS challenge system and how it works:
+**🧢 What to know about the ABS challenge system and how it works:**
 - Only batters and pitchers/catchers may initiate a challenge by tapping their cap within 2 seconds of the pitch sequence end. Managers, coaches and other players may not be involved.
 - Each team starts the game with two challenges. Teams will lose the ability to challenge after they do so incorrectly twice. Teams will start each extra inning with a challenge regardless of whether they have already exhausted their challenges in the first nine innings.
 - The ABS zone is set as follows: The width is 17 inches, identical to home plate. The top of the zone is set at 53.5% of a player's measured height without cleats. The bottom is set at 27% of the player's measured height. The strike zone is captured as the ball passes through the middle of the plate, not the front.
