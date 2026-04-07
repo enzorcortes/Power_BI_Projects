@@ -18,6 +18,7 @@ Welcome! This repository highlights data visualization of raw data into meaningf
 > "Let the robots take our jobs, and let them help us dream up new work that matters." — Kevin Kelly*
 
 - Argues for the eventual replacement of all umpires in the MLB and or NCAA with nuanced data to support it
+- Strike Zone today (2026) is defined by the top being the midpoint between the shoulders and the pants down to the bottom just below the kneecap
 - Data points include...
     - Correct vs. incorrect calls within the defined AZ
     - MLB umpire scorecard on correct vs. incorrect strikes and balls in the 2022 season
