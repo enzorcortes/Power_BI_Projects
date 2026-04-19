@@ -73,7 +73,7 @@ MLB introduced the Automated Ball-Strike (ABS) Challenge System powered by T-Mob
  **Bottom Left of Graphic:**
   - Jose Altuve (Astros, blue), one of the shortest players in the league (5'6")
   - Aaron Judge (Yankees, red), one of the tallest players in the league (6'7")
-  - Judeg has a 20% larger strike zone than Altuve = 7 more baseballs worth of space
+  - Judge has a 20% larger strike zone than Altuve = 7 more baseballs worth of space
 
  **Middle to Bottom Right of Graphic:**
  - Spring training analytics:
