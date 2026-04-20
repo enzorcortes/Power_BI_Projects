@@ -17,7 +17,7 @@ Welcome! This repository highlights data visualization of raw data into meaningf
 
 ## ⚾ Baseball, The Case for ABS vs. Umpires in the Attack Zones (in development...)
 
-> "Let the robots take our jobs, and let them help us dream up new work that matters." — Kevin Kelly*
+> *"Let the robots take our jobs, and let them help us dream up new work that matters." — Kevin Kelly*
 
 - Argues for the eventual replacement of all umpires in the MLB and or NCAA with nuanced data to support it
 - Data points include...
