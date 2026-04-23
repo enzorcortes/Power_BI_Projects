@@ -5,7 +5,7 @@ Welcome! This repository highlights data visualization of raw data into meaningf
 # Projects
 
 ## 🎮 Online Gaming Behavior
-[onlinegamingbehavior.pbix] (onlinegamingbehavior.png)
+📁🔗 [onlinegamingbehavior](https://github.com/enzorcortes/Power_BI_Projects/tree/a529b14850a2e6b28610f04398919d36780ccbe9/onlinegamingbehavior)
 
 > *"Just as we exercise great care about what we take into our bodies through our mouths, we should exert a similar vigilance about what we take into our minds through our eyes and ears." — Elder Joseph B. Wirthlin*
 
