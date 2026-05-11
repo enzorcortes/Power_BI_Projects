@@ -103,6 +103,7 @@ MLB introduced the Automated Ball-Strike (ABS) Challenge System powered by T-Mob
 - https://www.kaggle.com/code/nickwan/attack-zones-visualizing-the-strike-zone/notebook
 - https://baseballsavant.mlb.com/csv-docs
 - https://www.kaggle.com/competitions/nwds-xstrikes/data?select=train.csv
+- https://baseballsavant.mlb.com/abs
 
 # ❓ About Power BI
 
