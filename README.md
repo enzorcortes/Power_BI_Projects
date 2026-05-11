@@ -99,10 +99,10 @@ MLB introduced the Automated Ball-Strike (ABS) Challenge System powered by T-Mob
 - Some notable worries via the umpires is using the system against the teams. If they run out of challengees the umpire can shrink the zone or shaft the team that has been challenging everything. All this, due to the challenge limitations, can go uncontested.
 
 **Helpful Links for later**
-https://www.kaggle.com/competitions/nwds-xstrikes/data
-https://www.kaggle.com/code/nickwan/attack-zones-visualizing-the-strike-zone/notebook
-https://baseballsavant.mlb.com/csv-docs
-https://www.kaggle.com/competitions/nwds-xstrikes/data?select=train.csv
+- https://www.kaggle.com/competitions/nwds-xstrikes/data
+- https://www.kaggle.com/code/nickwan/attack-zones-visualizing-the-strike-zone/notebook
+- https://baseballsavant.mlb.com/csv-docs
+- https://www.kaggle.com/competitions/nwds-xstrikes/data?select=train.csv
 
 # ❓ About Power BI
 
