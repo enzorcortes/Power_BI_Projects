@@ -7,6 +7,9 @@ Welcome! This repository highlights data visualization of raw data into meaningf
 ## 🎮 Online Gaming Behavior
 📁🔗 [onlinegamingbehavior](https://github.com/enzorcortes/Power_BI_Projects/tree/a529b14850a2e6b28610f04398919d36780ccbe9/onlinegamingbehavior)
 
+This dataset captures comprehensive metrics and demographics related to player behavior in online gaming environments. It includes variables such as player demographics, game-specific details, engagement metrics, and a target variable reflecting player retention.
+The dataset can be found [here](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset).
+
 > *"Just as we exercise great care about what we take into our bodies through our mouths, we should exert a similar vigilance about what we take into our minds through our eyes and ears." — Elder Joseph B. Wirthlin*
 
 - Neatly showcases online gaming behavior from Steam to form key insights into how certain behaviors arise via differences and combinations via total player count, location, age, sex, engagement levels, sessions per week, session duration, player levels, and achievements to unlock. The key tool to discern each data point is choice of engagement level between low, medium, and high.
@@ -19,7 +22,7 @@ Welcome! This repository highlights data visualization of raw data into meaningf
 
 📁🔗 (insert file link, when available, here)
 
-This dataset contains realistic sales, pricing, and consumer data for sports footwear from 2018 to 2026. It covers multiple global brands (Nike, Adidas, Puma, Reebok, ASICS, New Balance) and countries like USA, UK, Germany, Pakistan, India, UAE. Whether you want to analyze trends, predict sales, or study consumer behavior in the world of footwear, this dataset has you covered. This dataset can be found [here](https://www.kaggle.com/datasets/aliiihussain/sports-footwear-sales-and-consumer-behavior?resource=download).
+This dataset contains realistic sales, pricing, and consumer data for sports footwear from 2018 to 2026. It covers multiple global brands (Nike, Adidas, Puma, Reebok, ASICS, New Balance) and countries like USA, UK, Germany, Pakistan, India, UAE. Whether you want to analyze trends, predict sales, or study consumer behavior in the world of footwear, this dataset has you covered. The dataset can be found [here](https://www.kaggle.com/datasets/aliiihussain/sports-footwear-sales-and-consumer-behavior?resource=download).
 
 >*"Mama always said there's an awful lot you can tell about a person by their shoes. Where they're going, where they've been." — Forrest Gump*
 
