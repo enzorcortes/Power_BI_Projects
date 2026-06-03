@@ -15,7 +15,7 @@ Welcome! This repository highlights data visualization of raw data into meaningf
 
 <img src="images/onlinegamingbehavior.png" width="100%">
 
-##  Sports Footwear Sales & Consumer Behavior
+## 👟 Sports Footwear Sales & Consumer Behavior
 
 📁🔗 (insert file link, when available, here)
 
