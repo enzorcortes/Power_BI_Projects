@@ -15,6 +15,14 @@ Welcome! This repository highlights data visualization of raw data into meaningf
 
 <img src="images/onlinegamingbehavior.png" width="100%">
 
+##  Sports Footwear Sales & Consumer Behavior
+
+📁🔗 (insert file link, when available, here)
+
+This dataset contains realistic sales, pricing, and consumer data for sports footwear from 2018 to 2026. It covers multiple global brands (Nike, Adidas, Puma, Reebok, ASICS, New Balance) and countries like USA, UK, Germany, Pakistan, India, UAE. Whether you want to analyze trends, predict sales, or study consumer behavior in the world of footwear, this dataset has you covered. This dataset can be found [here](https://www.kaggle.com/datasets/aliiihussain/sports-footwear-sales-and-consumer-behavior?resource=download).
+
+>*"Mama always said there's an awful lot you can tell about a person by their shoes. Where they're going, where they've been." — Forrest Gump*
+
 ## ⚾ Baseball, The Case for ABS vs. Umpires in the Attack Zones (in development...)
 
 📁🔗 (insert file link, when available, here)
