@@ -23,6 +23,11 @@ This dataset contains realistic sales, pricing, and consumer data for sports foo
 
 >*"Mama always said there's an awful lot you can tell about a person by their shoes. Where they're going, where they've been." — Forrest Gump*
 
+- Showcases which brands and models sell the most while analyzing model iteration, total units, and model type (sport the shoe's meant for)
+- How sales have changed over time by viewing units sold, revenue sum, and brand revenue
+- Customer spenditure habits by level of income, preferred brand, payment method, retail vs. online, and average sum vs. all-time spenditures
+- What the top influences are driving revenue and how can revenue increase in the future
+
 ## ⚾ Baseball, The Case for ABS vs. Umpires in the Attack Zones (in development...)
 
 📁🔗 (insert file link, when available, here)
