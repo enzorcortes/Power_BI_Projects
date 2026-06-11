@@ -31,11 +31,11 @@ This dataset contains realistic sales, pricing, and consumer data for sports foo
 - Customer spenditure habits by level of income, preferred brand, payment method, retail vs. online, and average sum vs. all-time spenditures
 - What the top influences are driving revenue and how can revenue increase in the future
 
-<img src="globalsportsfootwear/globalfootwearsales brands and models page.png" width="100%">
+<img src="globalsportsfootwear/globalsportsfootwear brands and models page.png" width="100%">
 
 > *"Highlights of the most popular brands and models on the dashboard.*
 
-<img src="globalsportsfootwear/globalfootwearsales income and spend page.png" width="100%">
+<img src="globalsportsfootwear/globalsportsfootwear income and spend page.png" width="100%">
 
 > *"Highlights of spending behavior amongst income classes on the dashboard.*
 
