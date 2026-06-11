@@ -18,6 +18,8 @@ The dataset can be found [here](https://www.kaggle.com/datasets/rabieelkharoua/p
 
 <img src="images/onlinegamingbehavior.png" width="100%">
 
+> *"Hightlights the Online Gaming Behavior on the dashboard."*
+
 ## 👟 Sports Footwear Sales & Consumer Behavior
 
 📁🔗 [globalsportsfootwear](https://github.com/enzorcortes/Power_BI_Projects/tree/main/globalsportsfootwear)
