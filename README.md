@@ -20,7 +20,7 @@ The dataset can be found [here](https://www.kaggle.com/datasets/rabieelkharoua/p
 
 ## 👟 Sports Footwear Sales & Consumer Behavior
 
-📁🔗 (insert file link, when available, here)
+📁🔗 [globalsportsfootwear](https://github.com/enzorcortes/Power_BI_Projects/tree/main/globalsportsfootwear)
 
 This dataset contains realistic sales, pricing, and consumer data for sports footwear from 2018 to 2026. It covers multiple global brands (Nike, Adidas, Puma, Reebok, ASICS, New Balance) and countries like USA, UK, Germany, Pakistan, India, UAE. Whether you want to analyze trends, predict sales, or study consumer behavior in the world of footwear, this dataset has you covered. The dataset can be found [here](https://www.kaggle.com/datasets/aliiihussain/sports-footwear-sales-and-consumer-behavior?resource=download).
 
@@ -30,6 +30,15 @@ This dataset contains realistic sales, pricing, and consumer data for sports foo
 - How sales have changed over time by viewing units sold, revenue sum, and brand revenue
 - Customer spenditure habits by level of income, preferred brand, payment method, retail vs. online, and average sum vs. all-time spenditures
 - What the top influences are driving revenue and how can revenue increase in the future
+
+<img src="globalsportsfootwear/globalfootwearsales brands and models page.png" width="100%">
+
+> *"Highlights of the most popular brands and models on the dashboard.*
+
+<img src="globalsportsfootwear/globalfootwearsales income and spend page.png" width="100%">
+
+> *"Highlights of spending behavior amongst income classes on the dashboard.*
+
 
 ## ⚾ Baseball, The Case for ABS vs. Umpires in the Attack Zones (in development...)
 
